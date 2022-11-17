@@ -12,7 +12,7 @@ from hw_1.tasks.task_2 import check_fibonacci
 
     ],
 )
-def test_fibonacci(value: [int], expected_result: bool):
+def test_check_fibonacci(value: [int], expected_result: bool):
     actual_result = check_fibonacci(value)
 
     assert actual_result == expected_result
