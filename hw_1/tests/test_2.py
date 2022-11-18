@@ -9,7 +9,6 @@ from hw_1.tasks.task_2 import check_fibonacci
         ([19, 27, 132, 84, 3], False),
         ([13, 21, 34, 55, 89], True),
         ([0, 0], False),
-
     ],
 )
 def test_check_fibonacci(value: [int], expected_result: bool):
