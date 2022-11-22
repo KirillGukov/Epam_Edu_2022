@@ -6,7 +6,7 @@ def find_maximum_and_minimum(file_name: str) -> Tuple[int, int]:
         line = fi.readline()
         max_num = int(line[0])
         min_num = int(line[0])
-        f = line.strip().replace(', ', '')
+        f = line.strip().split(",")
         num = list(map(int, f))
         for i in num:
             if max_num > int(i):
@@ -18,6 +18,4 @@ def find_maximum_and_minimum(file_name: str) -> Tuple[int, int]:
                 continue
             else:
                 min_num = j
-            min_max: tuple[int, int] = (min_num, max_num)
-            print(min_max)
-            return min_max
+    return tuple(min_num, max_num)

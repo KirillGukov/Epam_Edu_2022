@@ -10,4 +10,4 @@ def find_maximal_subarray_sum(nums: List[int], k: int) -> int:
             max_sum += a
             nums.remove(a)
             s += 1
-    print(max_sum)
+    return max_sum
