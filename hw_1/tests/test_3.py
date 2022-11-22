@@ -1,12 +1,13 @@
 import pytest
 import os
 from tasks.task_3 import find_maximum_and_minimum
+path = os.path.dirname(os.path.abspath(__file__)) + "/file_name.txt"
 
-path = os.path.abspath(os.path.dirname(__file__)) + "/file_name.txt"
+
 @pytest.mark.parametrize(
     ["value", "expected_result"],
     [
-        (path, [1, 6]),
+        (path, (1, 6)),
     ],
 )
 def test_find_maximum_and_minimum(value: str, expected_result: tuple[int, int]):

@@ -18,4 +18,5 @@ def find_maximum_and_minimum(file_name: str) -> Tuple[int, int]:
                 continue
             else:
                 min_num = j
-    return tuple(min_num, max_num)
+        res_nums = (min_num, max_num)
+        return res_nums
