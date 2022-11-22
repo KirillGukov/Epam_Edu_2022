@@ -4,10 +4,11 @@ from typing import Tuple
 def find_maximum_and_minimum(file_name: str) -> Tuple[int, int]:
     with open(file_name) as fi:
         line = fi.readline()
-        max_num = int(line[0])
-        min_num = int(line[0])
+
         f = line.strip().split(",")
         num = list(map(int, f))
+        max_num = num[0]
+        min_num = num[0]
         for i in num:
             if max_num > int(i):
                 continue
