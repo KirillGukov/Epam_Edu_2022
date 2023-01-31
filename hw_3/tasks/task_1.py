@@ -34,6 +34,8 @@ def decorator_funct(func):
 
 @decorator_funct
 def cache(function: Callable, dct={}):
+
+
     def second_funct(*args, **kwargs):
         if function in dct:
             return dct[function]
