@@ -32,6 +32,3 @@ def read_magic_number(path: str) -> bool:
             return False
         else:
             raise error
-
-
-read_magic_number("file_name")

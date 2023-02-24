@@ -26,20 +26,22 @@ f()
 from collections.abc import Callable
 
 
-def decorator_funct(func):
-    def wrapper():
-        func()
-    return wrapper
+def cache(times=None) -> Callable:
+    def decorator_funct(func):
+        dict_func = {}
+        if times:
+            func_num = times
 
-
-@decorator_funct
-def cache(function: Callable, dct={}):
-
-
-    def second_funct(*args, **kwargs):
-        if function in dct:
-            return dct[function]
-        else:
-            dct[function] = function()
-            return dct[function]
-    return second_funct
+        def second_funct(*args, **kwargs):
+            if (tuple(args), tuple(kwargs.items())) in dict_func:
+                nonlocal func_num
+                if func_num > 1:
+                    func_num -= 1
+                    return dict_func[(tuple(args), tuple(kwargs.items()))]
+                else:
+                    return dict_func.pop(tuple(args), tuple(kwargs.items()))
+            else:
+                dict_func[tuple(args), tuple(kwargs.items())] = func(*args, **kwargs)
+                return dict_func[tuple(args), tuple(kwargs.items())]
+        return func_num
+    return decorator_funct

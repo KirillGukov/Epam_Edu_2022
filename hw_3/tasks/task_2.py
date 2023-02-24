@@ -33,4 +33,3 @@ def slow_calculate(value):
 def decorator_calculate(value):
     pool = Pool(60)
     return sum(pool.map(slow_calculate, range(value)))
-
