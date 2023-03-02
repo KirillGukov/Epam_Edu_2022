@@ -1,5 +1,5 @@
 from hw_5.tasks.task_1 import Homework, Teacher, Student
-student = Student("Ivan", "Vasilev")
+student = Student("Roman", "Petrov")
 
 
 def test_hw_in_time():
