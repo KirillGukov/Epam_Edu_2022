@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4542514c-a3e5-449a-8474-ba47aade22c6" name="Changes" comment="LoremAmoris">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_count_bot/exercise_count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tasks/task_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tasks/task_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tasks/task_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tasks/task_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tasks/task_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tests/test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tests/test_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tests/test_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tests/test_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/tests/test_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tasks/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tasks/my_def.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tasks/task_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tasks/task_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tasks/task_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tasks/task_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tasks/task_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tests/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tests/test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tests/test_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tests/test_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tests/test_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/tests/test_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/tasks/task_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/tasks/task_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/tasks/task_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/tasks/task_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/tests/test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/tests/test_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/tests/test_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/tests/test_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/tasks/file_name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/tasks/task_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/tasks/task_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/tasks/task_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/tasks/task_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/tasks/task_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/tests/file_name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/tests/test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5/tasks/task_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5/tests/test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Add files via upload&#10;&#10;LoremAmoris" />
+        <option name="rewordedMessage" value="LoremAmoris" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="ec4c8bfabe2e1bb5e84a04ec0418faf15c4dc6c6" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HjSP2DJ16fysTn8aKvgEjlxsSp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/LoremAmoris/PyProjects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\LoremAmoris\PyProjects\hw_4\tests" />
+      <recent name="C:\LoremAmoris\PyProjects\hw_2\tests" />
+      <recent name="C:\LoremAmoris\PyProjects\hw_2" />
+      <recent name="C:\LoremAmoris\PyProjects\hw_1\tasks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\LoremAmoris\PyProjects\hw_2\tasks" />
+      <recent name="C:\LoremAmoris\PyProjects\hw_2" />
+      <recent name="C:\LoremAmoris\PyProjects\hw_1\tests\.pytest_cache" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.task_3">
+    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_5/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_5/tasks/task_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_1.test_hw_not_in_time" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_5/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_1.test_hw_not_in_time&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_1.test_is_homework" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_5/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_1.test_is_homework&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_1.py (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_5/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/hw_5/tests/test_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_3/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/hw_3/tests/test_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_3.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_3/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/hw_3/tests/test_3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task_3" />
+        <item itemvalue="Python tests.pytest in test_1.py (1)" />
+        <item itemvalue="Python tests.pytest for test_1.test_is_homework" />
+        <item itemvalue="Python tests.pytest for test_1.test_hw_not_in_time" />
+        <item itemvalue="Python tests.pytest in test_3.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4542514c-a3e5-449a-8474-ba47aade22c6" name="Changes" comment="" />
+      <created>1668796972137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668796972137</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HomeWork_1">
+      <created>1668940993521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668940993521</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HomeWork_2">
+      <created>1669885454369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669885454369</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HomeWork_2">
+      <created>1670144444247</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670144444247</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HomeWork_2">
+      <created>1670420991937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670420991937</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HomeWork_2">
+      <created>1671109132221</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671109132221</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HomeWork_2">
+      <created>1671525902344</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671525902344</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HomeWork_2">
+      <created>1671576240924</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671576240924</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HomeWork_2">
+      <created>1672744879980</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672744879980</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HomeWork_2">
+      <created>1675157788350</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675157788350</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HomeWork_2">
+      <created>1677235459460</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677235459460</updated>
+    </task>
+    <task id="LOCAL-00011" summary="LoremAmoris">
+      <created>1677744613929</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677744613929</updated>
+    </task>
+    <task id="LOCAL-00012" summary="LoremAmoris">
+      <created>1677744723960</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677744723960</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hw_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork_1" />
+    <MESSAGE value="HomeWork_2" />
+    <MESSAGE value="LoremAmoris" />
+    <option name="LAST_COMMIT_MESSAGE" value="LoremAmoris" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="path_name" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
